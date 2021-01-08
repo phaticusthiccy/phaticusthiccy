@@ -32,5 +32,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phaticusthiccy&" alt="phaticusthiccy" /></p>
 
-<p><img align="center" src="![Phaticusthiccy's Github Stats](https://github-readme-stats.vercel.app/api? phaticusthiccy=anuraghazra&theme=vision-friendly-dark_icons=true)" /><p>
+<p>align="center" src="![Phaticusthiccy's Github Stats](https://github-readme-stats.vercel.app/api? phaticusthiccy=anuraghazra&theme=vision-friendly-dark_icons=true)" /><p>
 
