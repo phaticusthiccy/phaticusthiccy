@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phaticusthiccy&label=Profile%20views&color=0e75b6&style=flat" alt="phaticusthiccy" /> </p>
 
-<img src="https://api.codacy.com/project/badge/Grade/db948e1eb4b2457386ba80388e8390cf" alt="Codacy Badge" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phaticusthiccy" alt="phaticusthiccy" /></a> </p>
+
+<img src="https://api.codacy.com/project/badge/Grade/db948e1eb4b2457386ba80388e8390cf" alt="Codacy Badge" /> </p>
 
 - 🔭 I’m currently working on [WhatsAsena](https://github.com/phaticusthiccy/WhatsAsenaDuplicated)
 
