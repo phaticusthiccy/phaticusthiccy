@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phaticusthiccy&label=Profile%20views&color=ff69b4&style=flat" alt="phaticusthiccy" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phaticusthiccy" alt="phaticusthiccy" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phaticusthiccy&theme=darkhub" alt="phaticusthiccy" /></a> </p>
 
 
 - 🔭 I’m currently working on [WhatsAsena](https://github.com/phaticusthiccy/WhatsAsenaDuplicated)
