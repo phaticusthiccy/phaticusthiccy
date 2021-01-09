@@ -14,9 +14,9 @@
 
 - 👨‍💻 All of my projects are available at [https://phaticusthiccy.jimdofree.com](https://phaticusthiccy.jimdofree.com)
 
-- 📫 How to reach me **https://t.me/phaticusthiccy**
+- 📫 How to reach me [Telegram](https://t.me/phaticusthiccy)
 
-- ⚡ Fun fact **Only a sad developer.. 🌆**
+- ⚡ **I am __only__ a sad developer.. 🌆**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
