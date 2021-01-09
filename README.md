@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Phaticusthiccy</h1>
 <h3 align="center">I am a simple developer. Not more..</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=phaticusthiccy&label=Profile%20views&color=0e75b6&style=flat" alt="phaticusthiccy" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=phaticusthiccy&label=Profile%20views&color=ff69b4&style=flat" alt="phaticusthiccy" />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phaticusthiccy" alt="phaticusthiccy" /></a> </p>
 
@@ -12,11 +12,11 @@
 
 - 👯 I’m looking to collaborate on [Asena UserBot](https://github.com/phaticusthiccy/AsenaUserBotDuplicated)
 
-- 👨‍💻 All of my projects are available at [https://phaticusthiccy.jimdofree.com](https://phaticusthiccy.jimdofree.com)
+- 👨‍💻 All of my projects are available at > [My Blog](https://phaticusthiccy.jimdofree.com) <
 
-- 📫 How to reach me [Telegram](https://t.me/phaticusthiccy)
+- 📫 How to reach me > [Telegram](https://t.me/phaticusthiccy) <
 
-- ⚡ **I am __only__ a sad developer.. 🌆**
+- 💫 **I am only a sad developer.. 🌆**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
