@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phaticusthiccy&label=Profile%20views&color=ff69b4&style=flat" alt="phaticusthiccy" />
 
-<a href="https://github.com/ryo-ma/github-profile-trophy/phaticusthiccy">
+<a href="https://github.com/phaticusthiccy/github-profile-trophy/stargazers">
     <img src="https://img.shields.io/github/stars/ryo-ma/github-profile-trophy"/> 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phaticusthiccy&theme=darkhub" alt="phaticusthiccy" /></a> </p>
