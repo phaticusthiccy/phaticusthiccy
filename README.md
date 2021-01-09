@@ -29,5 +29,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=phaticusthiccy&show_icons=true&locale=tr&layout=compact&theme=nightowl" alt="phaticusthiccy" /></p>
 
+---|
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=phaticusthiccy&show_icons=true&locale=tr&theme=nightowl" alt="phaticusthiccy" /></p>
+
+---|
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phaticusthiccy&locale=tr&theme=nightowl" alt="phaticusthiccy" /></p>
