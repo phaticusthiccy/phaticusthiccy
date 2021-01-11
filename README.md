@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Phaticusthiccy</h1>
+<h1 align="center">Hi 🥰 I'm Phaticusthiccy</h1>
 <h3 align="center">I am a simple developer. Not more..</h3>
 
 <p align="center">
@@ -6,12 +6,12 @@
     <img src="https://komarev.com/ghpvc/?username=phaticusthiccy&label=Profile%20views&color=ff69b4&label=Profil+İzlenmeleri&style=plastic">
 
   </a>
-  <a href="https://github.com/phaticusthiccy?tab=followers">
-    <img src="https://img.shields.io/github/followers/phaticusthiccy?color=ff69b4&label=Takip%C3%A7iler&style=plastic">
-
-  </a>
   <a href="https://github.com/phaticusthiccy?tab=stars">
     <img src="https://img.shields.io/github/stars/phaticusthiccy?color=ff69b4&label=Y%C4%B1ld%C4%B1zlar&style=plastic">
+
+  </a>
+  <a href="https://github.com/phaticusthiccy?tab=followers">
+    <img src="https://img.shields.io/github/followers/phaticusthiccy?color=ff69b4&label=Takip%C3%A7iler&style=plastic">
 
   </a>
 </p>
@@ -31,7 +31,7 @@
 
 - 💫 **I am only a sad developer.. 🌆**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Benimle İletişime Geç:</h3>
 <p align="left">
 <a href="https://twitter.com/kyrie_baran" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kyrie_baran" height="30" width="40" /></a>
 <a href="https://instagram.com/kyrie.baran" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
