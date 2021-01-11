@@ -1,9 +1,20 @@
 <h1 align="center">Hi 👋, I'm Phaticusthiccy</h1>
 <h3 align="center">I am a simple developer. Not more..</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=phaticusthiccy&label=Profile%20views&color=ff69b4&style=flat" alt="phaticusthiccy" />
+<p align="center">
+  <a href="https://github.com/phaticusthiccy">
+    <img src="https://komarev.com/ghpvc/?username=phaticusthiccy&label=Profile%20views&color=ff69b4&style=flat">
 
-<p align="left"> <img src="https://img.shields.io/github/followers/phaticusthiccy?color=ff69b4&label=Takip%C3%A7iler" alt="phaticusthiccy" />
+  </a>
+  <a href="https://github.com/phaticusthiccy?tab=followers">
+    <img src="https://img.shields.io/github/followers/phaticusthiccy?color=ff69b4&label=Takip%C3%A7iler">
+
+  </a>
+  <a href="https://github.com/phaticusthiccy?tab=stars">
+    <img src="https://img.shields.io/github/stars/phaticusthiccy?color=ff69b4&label=Y%C4%B1ld%C4%B1zlar">
+
+  </a>
+</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phaticusthiccy&theme=darkhub" alt="phaticusthiccy" /></a> </p>
 
