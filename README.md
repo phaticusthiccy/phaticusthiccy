@@ -3,15 +3,15 @@
 
 <p align="center">
   <a href="https://github.com/phaticusthiccy">
-    <img src="https://komarev.com/ghpvc/?username=phaticusthiccy&label=Profile%20views&color=ff69b4&style=flat">
+    <img src="https://komarev.com/ghpvc/?username=phaticusthiccy&label=Profile%20views&color=ff69b4&label=Profil+İzlenmeleri&style=plastic">
 
   </a>
   <a href="https://github.com/phaticusthiccy?tab=followers">
-    <img src="https://img.shields.io/github/followers/phaticusthiccy?color=ff69b4&label=Takip%C3%A7iler">
+    <img src="https://img.shields.io/github/followers/phaticusthiccy?color=ff69b4&label=Takip%C3%A7iler&style=plastic">
 
   </a>
   <a href="https://github.com/phaticusthiccy?tab=stars">
-    <img src="https://img.shields.io/github/stars/phaticusthiccy?color=ff69b4&label=Y%C4%B1ld%C4%B1zlar">
+    <img src="https://img.shields.io/github/stars/phaticusthiccy?color=ff69b4&label=Y%C4%B1ld%C4%B1zlar&style=plastic">
 
   </a>
 </p>
