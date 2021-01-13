@@ -1,4 +1,4 @@
-<h1 align="center">Hi 🥰 I'm Phaticusthiccy</h1>
+<h1 align="center">Hi 🥰 I'm <br>Phaticusthiccy</h1>
 <h3 align="center">I am a simple developer. Not more..</h3>
 
 <p align="center">
