@@ -1,5 +1,6 @@
 <h1 align="center">Hi 🥰 I'm <br>Phaticusthiccy</h1>
 <h3 align="center">I am a simple developer. Not more..</h3>
+<h7 align="center">Moreover, I am the co-owner of the first project in the world. WhatsAsena 🐺</h7>
 
 <p align="center">
   <a href="https://github.com/phaticusthiccy">
@@ -16,8 +17,6 @@
   </a>
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phaticusthiccy&theme=darkhub" alt="phaticusthiccy" /></a> </p>
-
 
 - 🔭 I’m currently working on [WhatsAsena](https://github.com/phaticusthiccy/WhatsAsenaDuplicated)
 
@@ -31,7 +30,7 @@
 
 - 💫 **I am only a sad developer.. 🌆**
 
-<h3 align="left">Benimle İletişime Geç:</h3>
+<h3 align="left">Contact Me:</h3>
 <p align="left">
 <a href="https://twitter.com/kyrie_baran" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kyrie_baran" height="30" width="40" /></a>
 <a href="https://instagram.com/kyrie.baran" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
@@ -45,7 +44,20 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=phaticusthiccy&show_icons=true&locale=tr&theme=nightowl" alt="phaticusthiccy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phaticusthiccy&locale=tr&theme=nightowl" alt="phaticusthiccy" /></p>
+</details>
+
+<details>
+    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
+
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=phaticusthiccy)
+
+</details>
+
+<details>
+    <summary>&#127942 <b>GitHub Activity</b></summary><br/>
 
 ![Metrics](https://metrics.lecoq.io/phaticusthiccy?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Europe%2FIstanbul)
+
+</details>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=onnz2qmc7ol5br77kc2zpowtw&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=onnz2qmc7ol5br77kc2zpowtw&redirect=true)
