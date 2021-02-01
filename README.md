@@ -45,3 +45,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=phaticusthiccy&show_icons=true&locale=tr&theme=nightowl" alt="phaticusthiccy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phaticusthiccy&locale=tr&theme=nightowl" alt="phaticusthiccy" /></p>
+
+![Metrics](https://metrics.lecoq.io/phaticusthiccy?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Europe%2FIstanbul)
