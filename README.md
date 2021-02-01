@@ -47,3 +47,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phaticusthiccy&locale=tr&theme=nightowl" alt="phaticusthiccy" /></p>
 
 ![Metrics](https://metrics.lecoq.io/phaticusthiccy?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Europe%2FIstanbul)
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=onnz2qmc7ol5br77kc2zpowtw&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=onnz2qmc7ol5br77kc2zpowtw&redirect=true)
