@@ -23,8 +23,6 @@
 
 - 🌱 I’m currently learning **Java, Typescript, HTML**
 
-- 👯 I’m looking to collaborate on [Asena UserBot](https://github.com/phaticusthiccy/AsenaUserBotDuplicated)
-
 - 👨‍💻 All of my projects are available at > [My Blog](https://phaticusthiccy.jimdofree.com) <
 
 - 📫 How to reach me > [Telegram](https://t.me/phaticusthiccy) <
@@ -59,7 +57,7 @@
 
 ![Metrics](https://metrics.lecoq.io/phaticusthiccy?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Europe%2FIstanbul)
 
-[![Thiccy's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=phaticusthiccy&layout=compact)](https://github.com/phaticusthiccy)
+[![News](https://github-readme-stats.vercel.app/api/pin/?username=phaticusthiccy&repo=WhatsAsenaDuplicated)](https://github.com/phaticusthiccy/WhatsAsenaDuplicated)
 
 </details>
 
