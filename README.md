@@ -24,7 +24,7 @@
 
 - 🌱 I’m currently learning **Java, Typescript, HTML**
 
-- 👨‍💻 All of my projects are available at > [My Blog](https://phaticusthiccy.jimdofree.com) <
+- 👨‍💻 All of my projects are available at > [My Blog](https://phaticusthiccy.github.io) <
 
 - 📫 How to reach me > [Telegram](https://t.me/phaticusthiccy) <
 
