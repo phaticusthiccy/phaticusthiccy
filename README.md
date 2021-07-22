@@ -71,5 +71,6 @@ I am 17 yeas old. From Turkey
 
 I worked with Instagram, Gitlab, Bitbucket, Brainshop. Some of for testing, some things for developing.
 If you have any question for me ı put my contact information above.
+
 See ya 💘
 </details>
