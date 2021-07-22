@@ -20,16 +20,58 @@
   </a>
 </p>
 
+<details>
+  <summary><b>Languages I Know 💻</b></summary><br/>
+
+| Language   | Degree   |
+| ---        | ---      |
+| Javascript | SSS      |
+| Python     | SSS (AI) |
+| HTML       | A        |
+| Typescript | B+       |
+| CSS        | B        |
+| SCSS       | B        |
+| Lua        | B        |
+| Golang     | B        |
+
+##
+#### Degree Table 
+
+| Degree | Point |
+| ---    | ---   |
+| SSS    | +95   |
+| SS     | +90   |
+| S      | +85   |
+| A+     | +80   |
+| A      | +70   |
+| B+     | +60   |
+| B      | +50   |
+| C      | +40   |
+| D      | +30   |
+| F      | <30   |
+</details>
+
+<details>
+  <summary><b>Languages ​​I'm Learning 🙇🏻</b></summary><br/>
+
+| Language   | Status   |
+| ---        | ---      |
+| Emacs Lisps| ✅       |
+| Java       | ✅       |
+| Make       | ✅       |
+| Assembly   | ✅       |
+| Rust       | ✅       |
+| LaTeX      | ✅       |
+| MediaWiki  | ✅       |
+</details>
+
+##
 
 - 🔭 I’m currently working on [WhatsAsena](https://github.com/phaticusthiccy/WhatsAsenaDuplicated)
 
-- 🌱 I’m currently learning **Java, Typescript, HTML**
-
-- 👨‍💻 All of my projects are available at > [My Blog](https://phaticusthiccy.github.io) <
-
-- 📫 How to reach me > [Telegram](https://t.me/phaticusthiccy) <
-
 - 💫 **I am only a sad developer.. 🌆**
+
+##
 
 <h3 align="left">Contact Me:</h3>
 <p align="left">
