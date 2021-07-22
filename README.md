@@ -4,6 +4,7 @@
 <h7 align="left">Moreover, I am the co-owner of the first project in the world. <br>WhatsAsena 🐺</h7>
 
 ##
+
 <p align="center">
   <a href="https://github.com/phaticusthiccy">
     <img src="https://komarev.com/ghpvc/?username=phaticusthiccy&label=Profile%20views&color=ff69b4&label=Profile+Views&style=plastic">
@@ -40,7 +41,9 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=phaticusthiccy&show_icons=true&layout=compact&theme=nightowl" alt="phaticusthiccy" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=phaticusthiccy&show_icons=true&theme=nightowl" alt="phaticusthiccy" /></p>
+![Thiccy](https://github.com/phaticusthiccy/Statics/blob/master/generated/languages.svg)
+
+![Thiccy](https://github.com/phaticusthiccy/Statics/blob/master/generated/overview.svg)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phaticusthiccy&theme=nightowl" alt="phaticusthiccy" /></p>
 </details>
@@ -53,7 +56,7 @@
 </details>
 
 <details>
-    <summary>&#127942 <b>GitHub Activity</b></summary><br/>
+    <summary>&#127942 <b>GitHub Activity (Public Data)</b></summary><br/>
 
 ![Metrics](https://metrics.lecoq.io/phaticusthiccy?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Europe%2FIstanbul)
 
