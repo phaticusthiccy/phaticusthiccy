@@ -90,12 +90,16 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phaticusthiccy&theme=nightowl" alt="phaticusthiccy" /></p>
 </details>
 
+##
+
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=phaticusthiccy)
 
 </details>
+
+##
 
 <details>
     <summary>&#127942 <b>GitHub Activity (Public Data)</b></summary><br/>
@@ -105,6 +109,8 @@
 [![News](https://github-readme-stats.vercel.app/api/pin/?username=phaticusthiccy&repo=WhatsAsenaDuplicated)](https://github.com/phaticusthiccy/WhatsAsenaDuplicated)
 
 </details>
+
+##
 
 <details>
     <summary><b>About Me ☄️</b></summary><br/>
