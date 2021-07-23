@@ -118,4 +118,5 @@ I worked with Instagram, Gitlab, Bitbucket, Brainshop. Some of for testing, some
 If you have any question for me ı put my contact information above.
 
 See ya 💘
+
 </details>
