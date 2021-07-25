@@ -65,6 +65,16 @@
 | MediaWiki  | ✅       |
 </details>
 
+<details>
+  <summary><b>Contributed Repositorys 📚</b></summary><br/>
+
+| Repository     | Link     |
+| ---            | ---      |
+| CoffeeHouse-JavaScript-API-Wrapper | https://github.com/intellivoid/CoffeeHouse-JavaScript-API-Wrapper       |
+| node-fluent-ffmpeg | https://github.com/fluent-ffmpeg/node-fluent-ffmpeg |
+| google-this | https://github.com/LuanRT/google-this |
+
+</details>
 ##
 
 - 🔭 I’m currently working on [WhatsAsena](https://github.com/phaticusthiccy/WhatsAsenaDuplicated)
