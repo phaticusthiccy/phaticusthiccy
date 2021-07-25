@@ -1,7 +1,9 @@
 <h2 align="center">Hi 🥰 I'm <br>Phaticusthiccy</h1>
 <h4 align="center">He/Him - BLM Resources</h3>
 <h4 align="center">I am a simple developer. Not more..</h3>
-<h7 align="center">Moreover, I am the co-owner of the first project in the world. <br>WhatsAsena 🐺</h7>
+<p align="center">
+  I am the co-owner of the first project in the world. WhatsAsena 🐺
+</p>
 
 ##
 
