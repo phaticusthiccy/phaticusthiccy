@@ -74,15 +74,10 @@
 | ---            | ---      |
 | CoffeeHouse-JavaScript-API-Wrapper | https://github.com/intellivoid/CoffeeHouse-JavaScript-API-Wrapper       |
 | node-fluent-ffmpeg | https://github.com/fluent-ffmpeg/node-fluent-ffmpeg |
+| Hacktoberfest_2021 (Lua) | https://github.com/wafarifki/Hacktoberfest_2021 |
 | google-this | https://github.com/LuanRT/google-this |
 
 </details>
-
-##
-
-- 🔭 I’m currently working on [WhatsAsena](https://github.com/phaticusthiccy/WhatsAsenaDuplicated)
-
-- 💫 **I am only a sad developer.. 🌆**
 
 ##
 
