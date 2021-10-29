@@ -134,7 +134,7 @@
     <summary><b>☄️ About Me </b></summary><br/>
 Hi, my name is Thiccy (Baran)
 
-I am an AI Developer. My real thing to do crating artificial brains, neural tools. 
+I am an AI Developer. My real thing to do crating artificial brains, neural tools. Also ı am a student of mechatronics enginering.
 
 I am 17 yeas old. From Turkey
 
