@@ -131,7 +131,7 @@
 ##
 
 <details>
-    <summary><b>About Me ☄️</b></summary><br/>
+    <summary><b>☄️ About Me </b></summary><br/>
 Hi, my name is Thiccy (Baran)
 
 I am an AI Developer. My real thing to do crating artificial brains, neural tools. 
