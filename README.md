@@ -103,7 +103,6 @@
 
 ![Thiccy](https://github.com/phaticusthiccy/Statics/blob/master/generated/languages.svg)
 
-![Thiccy](https://github.com/phaticusthiccy/Statics/blob/master/generated/overview.svg)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phaticusthiccy&theme=nightowl" alt="phaticusthiccy" /></p>
 </details>
