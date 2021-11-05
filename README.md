@@ -68,7 +68,7 @@
 </details>
 
 <details>
-  <summary><b>Contributed Repositorys 📚</b></summary><br/>
+  <summary><b>Contributed Repositories 📚</b></summary><br/>
 
 | Repository     | Link     |
 | ---            | ---      |
