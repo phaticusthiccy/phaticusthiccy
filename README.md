@@ -110,23 +110,7 @@
 
 ##
 
-<details>
-    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
-
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=phaticusthiccy)
-
-</details>
-
-##
-
-<details>
-    <summary>&#127942 <b>GitHub Activity (Public Data)</b></summary><br/>
-
-![Metrics](https://metrics.lecoq.io/phaticusthiccy?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Europe%2FIstanbul)
-
-[![News](https://github-readme-stats.vercel.app/api/pin/?username=phaticusthiccy&repo=WhatsAsenaDuplicated)](https://github.com/phaticusthiccy/WhatsAsenaDuplicated)
-
-</details>
+![Metrics](https://metrics.lecoq.io/phaticusthiccy?template=classic&commits.authoring=Phaticusthiccy&isocalendar=1&achievements=1&notable=1&pagespeed=1&people=1&lines=1&activity=1&code=1&stars=1&isocalendar.duration=full-year&stars.limit=4&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&lines.skipped=whatsasena-npm%2C%20Emacs-Train%2C%20phaticusthiccy%2C%20TextMaker-Unlimited%2C%20Image-to-Text%2C%20simple-array-generator%2C%20Carbon-API%2C%20WhatsAsenaDuplicated%2C%20Mechatronics-Sciences%2C%20Payday2-LGBTLights%2C%20Eva%2C%20RGANI&activity.limit=2&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=true&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=12&notable.from=organization&notable.repositories=false&code.lines=12&code.load=100&code.visibility=public&pagespeed.url=https%3A%2F%2Fphaticusthiccy.github.io&pagespeed.detailed=true&pagespeed.screenshot=false&config.timezone=Europe%2FIstanbul)
 
 ##
 
