@@ -132,7 +132,7 @@
 
 <details>
     <summary><b>☄️ About Me </b></summary><br/>
-Hi, my name is Thiccy (Baran)
+Hi, This is Thiccy
 
 I am an AI Developer. My real thing to do crating artificial brains, neural tools. Also ı am a student of mechatronics enginering.
 
