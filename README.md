@@ -2,7 +2,7 @@
 <h4 align="center">He/Him - BLM Resources</h3>
 <h4 align="center">I am a simple developer. Not more..</h3>
 <p align="center">
-  I am the co-owner of the first project in the world. WhatsAsena 🐺
+  Also I am the co-owner of the first project in the world. WhatsAsena 🐺
 </p>
 
 ##
