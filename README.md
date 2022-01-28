@@ -76,6 +76,7 @@
 | node-fluent-ffmpeg | https://github.com/fluent-ffmpeg/node-fluent-ffmpeg |
 | Hacktoberfest_2021 (Lua) | https://github.com/wafarifki/Hacktoberfest_2021 |
 | google-this | https://github.com/LuanRT/google-this |
+| kelle-telegram | https://github.com/luisgbr1el/kelle-telegram |
 
 </details>
 
