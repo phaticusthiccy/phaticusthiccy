@@ -23,13 +23,13 @@
 
 | Language   | Degree   |
 | ---        | ---      |
-| Javascript | SSS      |
 | Python     | SSS (AI) |
+| Javascript | SSS      |
+| Typescript | SS       |
+| Lua        | A        |
 | HTML       | A        |
-| Typescript | B+       |
 | CSS        | B        |
 | SCSS       | B        |
-| Lua        | B        |
 | Golang     | B        |
 
 ##
@@ -61,6 +61,9 @@
 | Rust       | ✅       |
 | LaTeX      | ✅       |
 | MediaWiki  | ✅       |
+| TypeScript | ♻        |
+| C++        | ♻        |
+| C          | ♻        |
 </details>
 
 <details>
