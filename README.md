@@ -110,7 +110,9 @@
 
 ##
 
-![Metrics](https://metrics.lecoq.io/phaticusthiccy?template=classic&base.hireable=true&isocalendar=1&lines=1&stars=1&people=1&introduction=1&achievements=1&pagespeed=1&code=1&activity=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=true&base.skip=false&isocalendar=false&isocalendar.duration=full-year&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=10&stars=false&stars.limit=4&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=following&people.shuffle=false&introduction=false&introduction.title=true&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&code=false&code.lines=12&code.load=400&code.days=3&code.visibility=public&pagespeed=false&pagespeed.url=https%3A%2F%2Fphaticusthiccy.github.io%2F&pagespeed.detailed=true&pagespeed.screenshot=true&pagespeed.pwa=true&config.timezone=Europe%2FIstanbul)
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture>
 
 
 ##
