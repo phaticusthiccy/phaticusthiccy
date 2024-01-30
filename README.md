@@ -84,9 +84,7 @@
 
 <h3 align="left">Contact Me:</h3>
 <p align="left">
-<a href="https://twitter.com/kyrie_baran" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-bird-symbols-png-logo-0.png" alt="kyrie_baran  " height="54" width="54" /></a>
-<a href="https://instagram.com/kyrie.baran" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/instagram-logo-png-transparent-0.png" alt="kyrie.baran" height="54" width="54" /></a>
-<a href="mailto:birhic023@gmail.com" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/gmail-email-logo-png-16.png" alt="Thiccy" height="50" width="60" /></a>
+<a href="https://instagram.com/nisneter" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/instagram-logo-png-transparent-0.png" alt="kyrie.baran" height="54" width="54" /></a>
 
 <p align="left"
 
@@ -99,21 +97,24 @@
 <a href="https://t.me/thiccyblog" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/telegram-png/telegram-chat-message-mobile-send-file-smartphone-talk-16.png" alt="Thiccy's Blog  " height="54" width="54" /></a>
 
 </p>
-
+<!--
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=phaticusthiccy&show_icons=true&layout=compact&theme=nightowl" alt="phaticusthiccy" /></p>
+-->
 
+<!--
 ![Thiccy](https://github.com/phaticusthiccy/Statics/blob/master/generated/languages.svg)
+-->
 
-
+<!--
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phaticusthiccy&theme=nightowl" alt="phaticusthiccy" /></p>
 </details>
+-->
 
 ##
 
 <picture>
   <img src="/github-metrics.svg" alt="Metrics">
 </picture>
-
 
 ##
 
