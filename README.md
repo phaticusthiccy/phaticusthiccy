@@ -3,30 +3,22 @@
 
 ##
 
-<p align="center">
-  <a href="https://github.com/phaticusthiccy">
-    <img src="https://komarev.com/ghpvc/?username=phaticusthiccy&label=Profile%20views&color=ff69b4&label=Profile+Views&style=plastic">
+<div align="center">
+<a href="https://github.com/phaticusthiccy"><img src="https://komarev.com/ghpvc/?username=phaticusthiccy&label=Profile%20views&color=ff69b4&label=Profile+Views&style=plastic"></a>
+<a href="https://github.com/phaticusthiccy?tab=stars"><img src="https://img.shields.io/github/stars/phaticusthiccy?color=ff69b4&label=Stargazers&style=plastic"></a>
+<a href="https://github.com/phaticusthiccy?tab=followers"><img src="https://img.shields.io/github/followers/phaticusthiccy?color=ff69b4&label=Followers&style=plastic"></a>
 
-  </a>
-  <a href="https://github.com/phaticusthiccy?tab=stars">
-    <img src="https://img.shields.io/github/stars/phaticusthiccy?color=ff69b4&label=Stargazers&style=plastic">
-
-  </a>
-  <a href="https://github.com/phaticusthiccy?tab=followers">
-    <img src="https://img.shields.io/github/followers/phaticusthiccy?color=ff69b4&label=Followers&style=plastic">
-
-  </a>
-</p>
+</div>
 
 ##
 
-<a href="https://youtube.com/channel/UCoqYkVlXyQqkgFazeVBtZbQ" target="blank"><img align="center" src="https://i.hizliresim.com/oxo165f.png" alt="Thiccy YouTube" height="46" width="70" /></a>
+<div align="center">
+  <h3 align="center">Pull Up My <a href="https://t.me/thiccyblog">Blog!</a></h3>
+  
+  <a href="https://youtube.com/channel/UCoqYkVlXyQqkgFazeVBtZbQ" target="blank"><img src="https://i.hizliresim.com/oxo165f.png" alt="Thiccy YouTube" height="46" width="70" /></a>
+  <a href="https://t.me/thiccyblog" target="blank"><img src="https://www.freepnglogos.com/uploads/telegram-png/telegram-chat-message-mobile-send-file-smartphone-talk-16.png" alt="Thiccy's Blog" height="54" width="54" /></a>
 
-### Pull Up My [Blog!](https://t.me/thiccyblog)
-<p align="left">
-<a href="https://t.me/thiccyblog" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/telegram-png/telegram-chat-message-mobile-send-file-smartphone-talk-16.png" alt="Thiccy's Blog  " height="54" width="54" /></a>
 
-</p>
 <!--
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=phaticusthiccy&show_icons=true&layout=compact&theme=nightowl" alt="phaticusthiccy" /></p>
 -->
@@ -62,3 +54,4 @@ If you have any question for me i put my contact information above.
 See ya 💘
 
 </details>
+</div>
