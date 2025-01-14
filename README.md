@@ -1,5 +1,5 @@
 <h2 align="center">Hi 🥰 I'm <br>Phaticusthiccy</h1>
-<h4 align="center">He/Him - BLM Resources</h3>
+<h4 align="center">She/Her - BLM Resources</h3>
 
 ##
 
