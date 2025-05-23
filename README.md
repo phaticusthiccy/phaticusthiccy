@@ -14,7 +14,8 @@
 
 <div align="center">
   
-  <a href="https://youtube.com/channel/UCoqYkVlXyQqkgFazeVBtZbQ" target="blank"><img src="https://i.hizliresim.com/oxo165f.png" alt="Thiccy YouTube" height="46" width="70" /></a>
+  
+  <a href="https://youtube.com/channel/UCoqYkVlXyQqkgFazeVBtZbQ" target="blank"><img src="https://i.ibb.co/qL3Sv77X/3146788-youtube-logo-icon.png" alt="Thiccy" height="54" width="54" /></a>
   <a href="https://t.me/phaticusthiccy" target="blank"><img src="https://www.freepnglogos.com/uploads/telegram-png/telegram-chat-message-mobile-send-file-smartphone-talk-16.png" alt="Thiccy" height="54" width="54" /></a>
 
 
