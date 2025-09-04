@@ -39,19 +39,4 @@
 </picture>
 
 ##
-
-<details>
-    <summary><b>☄️ About Me </b></summary><br/>
-Hi, This is Thiccy
-
-I am an AI Developer. My real thing to do crating artificial brains, neural tools. Also ı am a student of mechatronics enginering.
-
-I am 20 yeas old. From Turkey
-
-I worked with Instagram, Gitlab, Bitbucket, Brainshop. Some of for testing, some things for developing.
-If you have any question for me i put my contact information above.
-
-See ya 💘
-
-</details>
 </div>
