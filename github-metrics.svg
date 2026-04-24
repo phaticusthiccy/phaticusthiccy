@@ -2427,7 +2427,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     inspirer
-                                    <span class="gh">ranked 9.50k out of 313m repositories</span>
+                                    <span class="gh">ranked 9.50k out of 310m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1250</div>
                                     </div>
@@ -2749,7 +2749,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Apr 2026, 17:30:36 (timezone Europe/Istanbul) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 24 Apr 2026, 19:00:26 (timezone Europe/Istanbul) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
